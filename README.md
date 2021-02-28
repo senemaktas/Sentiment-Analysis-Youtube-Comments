@@ -12,6 +12,11 @@ Comparison of Neural Network Models for Nostalgic Sentiment Analysis of YouTube 
 <h3> Dataset </h3>
 <p style='text-align:justify'> </p>
 
+<h4> 1- Usage Youtube Data API </h4>
+
+<h4> 2- Pulling Data From Youtube </h4>
+
+<h4> 3- Cleaning Dataset </h4>
 
 <h3> System Architecture </h3>
 <p style='text-align:justify'> </p>
