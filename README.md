@@ -18,5 +18,8 @@ Comparison of Neural Network Models for Nostalgic Sentiment Analysis of YouTube 
 
 <h4> 3- Cleaning Dataset </h4>
 
+<img src="images/2dataset_preproessing_öncesi.png" alt="before"	width="500" height="300" /> 
+<img src="images/2dataset_preprocessing.png" alt="after"	width="500" height="300" /> 
+
 <h3> System Architecture </h3>
 <p style='text-align:justify'> </p>
