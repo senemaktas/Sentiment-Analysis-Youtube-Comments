@@ -16,7 +16,7 @@ Comparison of Neural Network Models for Nostalgic Sentiment Analysis of YouTube 
 
 <h4> 2- Pulling Data From Youtube </h4>
 
-<h4> 3- Cleaning Dataset </h4>
+<h4> 3- Before - After Preprocessing Dataset </h4>
 
 <img src="images/dataset.jpg" alt="before"	width="1000" height="300" /> 
 
