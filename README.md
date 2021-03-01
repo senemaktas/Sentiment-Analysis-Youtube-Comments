@@ -18,10 +18,12 @@ Comparison of Neural Network Models for Nostalgic Sentiment Analysis of YouTube 
 
 <h4> 3- Before - After Preprocessing Dataset </h4>
 
-<img src="images/dataset.jpg" alt="before"	width="1000" height="270" /> 
+<img src="images/dataset.jpg" alt="before"	width="900" height="200" /> 
 
 <h3> System Architecture </h3>
 <p style='text-align:justify'> </p>
 
+<img src="images/mimari.png" alt="before"	width="700" height="200" /> 
+
 <h3> Result </h3>
-<img src="images/accuracy_chart_nlp1.png" alt="accuracy"	width="400" height="250" /> 
+<img src="images/accuracy_chart_nlp1.png" alt="accuracy"	width="300" height="250" /> 
