@@ -12,7 +12,7 @@ Comparison of Neural Network Models for Nostalgic Sentiment Analysis of YouTube 
 <h3> Dataset </h3>
 <p style='text-align:justify'> </p>
 
-I will share it soon...
+[<-- CSV file-->](https://github.com/senemaktas/Sentiment-Analysis-Youtube-Comments/blob/51c599435d1d763893eacbe4f1a3a8fe512493b7/Nostalgic_Sentiment_Analysis_of_YouTube_Comments_Data.csv) 
 
 <h4> 1- Usage Youtube Data API </h4>
 
