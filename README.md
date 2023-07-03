@@ -12,7 +12,7 @@ Comparison of Neural Network Models for Nostalgic Sentiment Analysis of YouTube 
 <h3> Dataset </h3>
 <p style='text-align:justify'> </p>
 
-[https://huggingface.co/datasets/Senem/Nostalgic_Sentiment_Analysis_of_YouTube_Comments_Data]
+https://huggingface.co/datasets/Senem/Nostalgic_Sentiment_Analysis_of_YouTube_Comments_Data
 
 <h4> 1- Usage Youtube Data API </h4>
 
